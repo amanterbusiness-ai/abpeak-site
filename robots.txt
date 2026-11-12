@@ -1,4 +1,23 @@
+# abpeak.app welcomes search engines and AI assistants (search and answers). Everything public may be crawled.
 User-agent: *
+Allow: /
+
+# Named explicitly so that no default or future rule blocks them by accident.
+User-agent: Googlebot
+User-agent: Bingbot
+User-agent: Applebot
+User-agent: Applebot-Extended
+User-agent: Google-Extended
+User-agent: OAI-SearchBot
+User-agent: ChatGPT-User
+User-agent: GPTBot
+User-agent: PerplexityBot
+User-agent: Perplexity-User
+User-agent: Claude-SearchBot
+User-agent: Claude-User
+User-agent: ClaudeBot
+User-agent: DuckAssistBot
+User-agent: MistralAI-User
 Allow: /
 
 Sitemap: https://abpeak.app/sitemap-index.xml

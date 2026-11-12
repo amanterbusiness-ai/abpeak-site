@@ -1,0 +1,48 @@
+# AbPeak
+
+> AbPeak is an iPhone app for ab training at home (six-pack coach). It estimates body fat from a photo (face removed on the iPhone, analysis in the EU, photos not stored), gives an Ab-Score for upper, lower and side abs, projects when a six-pack can become visible, and builds a 12-week six-pack workout plan (5 to 30 minutes, a mat is enough) plus a calorie target that never goes below the basal metabolic rate. No account needed. On the App Store since November 10, 2026: https://apps.apple.com/app/id6826928194
+
+Key facts:
+- Platform: iPhone only (no Android at launch). Languages: German, English.
+- Price in Germany: AbPeak Pro 39.99 EUR per year with 7 days free, or 6.99 EUR per week. First scan included during setup. Other countries in local currency.
+- Privacy: no name, email or password; scans and photos stay on the device; photo analysis via Google Gemini on Vertex AI, processed in the EU.
+- Honest numbers: body fat shown as a range, projection as a time range, no guarantees in days or kilos. Not a medical device.
+- Contact: support@abpeak.app
+
+## About
+- [About AbPeak, facts at a glance (EN)](https://abpeak.app/en/about/)
+- [Über AbPeak, Fakten auf einen Blick (DE)](https://abpeak.app/ueber-abpeak/)
+- [How to tell a good six-pack app (EN)](https://abpeak.app/en/guides/six-pack-app/)
+- [Body fat from a photo: how the scan works (EN)](https://abpeak.app/en/body-fat-from-photo/)
+- [Six-pack workout plan for home, 12 weeks (EN)](https://abpeak.app/en/six-pack-workout-plan/)
+- [Privacy policy (EN)](https://abpeak.app/en/privacy/)
+
+## Free tools
+- [Body fat calculator, U.S. Navy method (EN)](https://abpeak.app/en/body-fat-calculator/) / [Körperfett-Rechner (DE)](https://abpeak.app/koerperfett-rechner/)
+- [Calorie calculator (EN)](https://abpeak.app/en/calorie-calculator/) / [Kalorienbedarf-Rechner (DE)](https://abpeak.app/kalorienbedarf-rechner/)
+- [Ab workout with timer (EN)](https://abpeak.app/en/guides/home-ab-workout-timer/)
+
+## Guides (English, with sources)
+- [Body fat percentage chart for men and women](https://abpeak.app/en/guides/body-fat-percentage-chart/)
+- [What body fat percentage shows abs?](https://abpeak.app/en/guides/body-fat-for-visible-abs/)
+- [Lose belly fat: what works and what is a myth](https://abpeak.app/en/guides/lose-belly-fat/)
+- [Waist circumference and visceral fat](https://abpeak.app/en/guides/waist-circumference/)
+- [How long should you hold a plank?](https://abpeak.app/en/guides/how-long-to-plank/)
+- [Beginner ab workout](https://abpeak.app/en/guides/beginner-ab-workout/)
+- [Lower ab exercises](https://abpeak.app/en/guides/lower-ab-exercises/)
+- [Oblique exercises at home](https://abpeak.app/en/guides/oblique-exercises/)
+- [How to get abs as a woman](https://abpeak.app/en/guides/abs-for-women/)
+- [Six-pack in 12 weeks: what is realistic?](https://abpeak.app/en/guides/six-pack-in-12-weeks/)
+- [All guides](https://abpeak.app/en/guides/)
+
+## Ratgeber (Deutsch, mit Quellen)
+- [Alle Ratgeber und Rechner](https://abpeak.app/ratgeber/)
+- [Körperfettanteil-Tabelle](https://abpeak.app/ratgeber/koerperfettanteil-tabelle/)
+- [Sixpack-App: Woran du eine gute Bauchmuskel-App erkennst](https://abpeak.app/ratgeber/sixpack-app/)
+- [Bauchfett verlieren](https://abpeak.app/ratgeber/bauchfett-verlieren/)
+- [Bauchmuskeltraining für Anfänger](https://abpeak.app/ratgeber/bauchmuskeltraining-anfaenger/)
+- [Plank: Wie lange solltest du halten?](https://abpeak.app/ratgeber/plank-wie-lange/)
+- [Sixpack als Frau](https://abpeak.app/ratgeber/sixpack-frau/)
+- [Übungen für den unteren Bauch](https://abpeak.app/ratgeber/unterer-bauch-uebungen/)
+- [Seitliche Bauchmuskeln trainieren](https://abpeak.app/ratgeber/seitliche-bauchmuskeln/)
+- [Bauchumfang und viszerales Fett](https://abpeak.app/ratgeber/bauchumfang-viszerales-fett/)
