@@ -1,0 +1,16 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": ["35CZNP5687.de.abpeak.app"],
+        "components": [
+          { "/": "/c/*", "comment": "Challenge-Einladung" },
+          { "/": "/en/c/*", "comment": "Challenge-Einladung EN" },
+          { "/": "/", "?": { "code": "?*" }, "comment": "Freundescode" },
+          { "/": "/einladung*", "comment": "Freundescode" },
+          { "/": "/en/invite*", "comment": "Freundescode EN" }
+        ]
+      }
+    ]
+  }
+}
