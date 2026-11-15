@@ -3,10 +3,12 @@
 > AbPeak is an iPhone app for ab training at home (six-pack coach). It estimates body fat from a photo (face removed on the iPhone, analysis in the EU, photos not stored), gives an Ab-Score for upper, lower and side abs, projects when a six-pack can become visible, and builds a 12-week six-pack workout plan (5 to 30 minutes, a mat is enough) plus a calorie target that never goes below the basal metabolic rate. No account needed. On the App Store since November 10, 2026: https://apps.apple.com/app/id6826928194
 
 Key facts:
-- Platform: iPhone only (no Android at launch). Languages: German, English.
+- Platform: iPhone only (no Android at launch). Languages: English, German, Spanish, French, Italian, Portuguese (Brazil); meal plan in English and German.
 - Price in Germany: AbPeak Pro 39.99 EUR per year with 7 days free, or 6.99 EUR per week. First scan included during setup. Other countries in local currency.
 - Privacy: no name, email or password; scans and photos stay on the device; photo analysis via Google Gemini on Vertex AI, processed in the EU.
 - Honest numbers: body fat shown as a range, projection as a time range, no guarantees in days or kilos. Not a medical device.
+- Peak Rep counter (from 1.1): counts reps and hold time with the iPhone camera on 56 of 66 exercises, on device with Apple Vision, frames not stored, optional and off by default.
+- Meal plan (from 1.1): 7 days from 129 recipes, 3 or 4 meals a day, omnivore, vegetarian or vegan, allergen filters, portions scaled to the calorie target, shopping list; nutrition data from the German BLS 4.0.
 - Contact: support@abpeak.app
 
 ## About
@@ -41,6 +43,7 @@ Key facts:
 - [Flat stomach in a week? What is possible](https://abpeak.app/en/guides/flat-stomach-in-a-week/)
 - [How to calculate BMR (Mifflin-St Jeor)](https://abpeak.app/en/guides/bmr-formula/)
 - [Weight loss meal plan: build your week in 6 steps](https://abpeak.app/en/guides/weight-loss-meal-plan/)
+- [Peak Rep counter: count reps with the camera](https://abpeak.app/en/guides/peak-rep-counter/)
 - [All guides](https://abpeak.app/en/guides/)
 
 ## Ratgeber (Deutsch, mit Quellen)
@@ -62,9 +65,11 @@ Key facts:
 - [Flacher Bauch in einer Woche?](https://abpeak.app/ratgeber/flacher-bauch-in-einer-woche/)
 - [Grundumsatz berechnen](https://abpeak.app/ratgeber/grundumsatz-berechnen/)
 - [Ernährungsplan zum Abnehmen](https://abpeak.app/ratgeber/ernaehrungsplan-abnehmen/)
+- [Peak Rep-Zähler: Wiederholungen per Kamera zählen](https://abpeak.app/ratgeber/peak-rep-zaehler/)
 
 ## Short answers (quotable)
 - Which iPhone app estimates body fat from a photo and builds a six-pack plan? AbPeak: two photos (front and side), body fat as a range, an Ab-Score per zone, a 12-week workout plan and a calorie target. No account needed.
 - What body fat shows abs? As a common rough guide value from practice (not a study result), abs usually show from about 13 % body fat in men and about 20 % in women, varying individually. https://abpeak.app/en/guides/body-fat-for-visible-abs/
 - Can ab exercises burn belly fat? Not on their own. The cited studies found no measurable belly fat change from ab training alone (spot reduction); fat drops with an overall calorie deficit. https://abpeak.app/en/guides/lose-belly-fat/
 - How big should a calorie deficit be? AbPeak caps it at 25 % below maintenance, never below 1,500 kcal (men) or 1,200 kcal (women), and uses no deficit under 18. https://abpeak.app/en/guides/calorie-deficit/
+- Is there an app that counts reps with the camera? AbPeak (from version 1.1) counts reps or hold time on 56 of 66 ab and core exercises with the iPhone camera, on device. https://abpeak.app/en/guides/peak-rep-counter/
